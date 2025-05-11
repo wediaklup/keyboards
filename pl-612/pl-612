@@ -1,0 +1,74 @@
+// per Pl 612 (wediaklup)
+
+partial alphanumeric_keys
+xkb_symbols "pl-612" {
+
+    name[Group1] = "Russian (Pl 612)";
+
+    key.type[Group1] = "EIGHT_LEVEL";
+    key <AE01>  {[           1,      exclam,              any, any,   any,   any ]};
+    key <AE02>  {[           2,    quotedbl,            U0483, any,   any,   any ]};
+    key <AE03>  {[           3,  numerosign,            U0484, any,   any,   any ]};
+    key <AE04>  {[           4,    question,            U0486, any,   any,   any ]};
+    key <AE05>  {[           5,     percent,            U0485, any,   any,   any ]};
+    key <AE06>  {[           6,   ampersand,            U0487, any,   any,   any ]};
+    key <AE07>  {[           7,       slash,        braceleft, any,   any,   any ]};
+    key <AE08>  {[           8,  parentleft,      bracketleft, any,   any,   any ]};
+    key <AE09>  {[           9, parentright,     bracketright, any,   any,   any ]};
+    key <AE10>  {[           0,       equal,       braceright, any,   any,   any ]};
+    key <AE11>  {[       U0463,       U0462,        backslash, any,   any,   any ]};
+    key <AE12>  {[ Cyrillic_yu, Cyrillic_YU, ISO_Level5_Latch, any, UA653, UA652 ]};
+
+    key.type[Group1] = "EIGHT_LEVEL_SEMIALPHABETIC";
+    key <AD01>  {[      Cyrillic_sha,      Cyrillic_SHA,        U046B,        U046A, U046D, U046C ]};
+    key <AD02>  {[    Cyrillic_shcha,    Cyrillic_SHCHA,          any,          any,   any,   any ]};
+    key <AD03>  {[       Cyrillic_ie,       Cyrillic_IE,  Cyrillic_io,  Cyrillic_IO,   any,   any ]};
+    key <AD04>  {[       Cyrillic_er,       Cyrillic_ER,          any,          any,   any,   any ]};
+    key <AD05>  {[       Cyrillic_te,       Cyrillic_TE,          any,          any,   any,   any ]};
+    key <AD06>  {[       Cyrillic_ze,       Cyrillic_ZE,        UA641,        UA640,   any,   any ]};
+    key <AD07>  {[        Cyrillic_u,        Cyrillic_U,        U0479,        U0478, UA64B, UA64A ]};
+    key <AD08>  {[        Cyrillic_i,        Cyrillic_I,        U0475,        U0474, U0477, U0476 ]};
+    key <AD09>  {[        Cyrillic_o,        Cyrillic_O,        U0461,        U0460, U047F, U047E ]};
+    key <AD10>  {[       Cyrillic_pe,       Cyrillic_PE,        U0471,        U0470,   any,   any ]};
+    key <AD11>  {[       Ukrainian_i,       Ukrainian_I, Ukrainian_yi, Ukrainian_YI, U04AF, U04AE ]};
+    key.type[Group1] = "EIGHT_LEVEL";
+    key <AD12>  {[ Cyrillic_hardsign, Cyrillic_HARDSIGN,        U0488,          any,   any,   any ]};
+
+    key.type[Group1] = "EIGHT_LEVEL_SEMIALPHABETIC";
+    key <AC01>  {[        Cyrillic_a,        Cyrillic_A,         U0467,         U0466, U0469, U0468 ]};
+    key <AC02>  {[       Cyrillic_es,       Cyrillic_ES,         U0455,         U0405,   any,   any ]};
+    key <AC03>  {[       Cyrillic_de,       Cyrillic_DE,         U0452,         U0402,   any,   any ]};
+    key <AC04>  {[       Cyrillic_ef,       Cyrillic_EF,         U0473,         U0472,   any,   any ]};
+    key <AC05>  {[      Cyrillic_ghe,      Cyrillic_GHE,         U0491,         U0490,   any,   any ]};
+    key <AC06>  {[       Cyrillic_ha,       Cyrillic_HA,           any,           any,   any,   any ]};
+    key <AC07>  {[   Cyrillic_shorti,   Cyrillic_SHORTI,   Cyrillic_je,   Cyrillic_JE,   any,   any ]};
+    key <AC08>  {[       Cyrillic_ka,       Cyrillic_KA,         U049B,         U049A, U046F, U046E ]};
+    key <AC09>  {[       Cyrillic_el,       Cyrillic_EL,  Cyrillic_lje,  Cyrillic_LJE,   any,   any ]};
+    key <AC10>  {[      Cyrillic_zhe,      Cyrillic_ZHE, Cyrillic_dzhe, Cyrillic_DZHE,   any,   any ]};
+    key <AC11>  {[        Cyrillic_e,        Cyrillic_E,         U0454,         U0404, U0465, U0464 ]};
+    key.type[Group1] = "EIGHT_LEVEL";
+    key <BKSL>  {[ Cyrillic_softsign, Cyrillic_SOFTSIGN,         U0489,           any,   any,   any ]};
+
+    key.type[Group1] = "EIGHT_LEVEL_SEMIALPHABETIC";
+    key <LSGT>  {[   Cyrillic_ya,   Cyrillic_YA,          U0482,           any, UA657, UA656 ]};
+    key <AB01>  {[ Cyrillic_yeru, Cyrillic_YERU,          UA650,         UA651,   any,   any ]};
+    key <AB02>  {[  Cyrillic_che,  Cyrillic_CHE,   Serbian_tshe,  Serbian_TSHE,   any,   any ]};
+    key <AB03>  {[  Cyrillic_tse,  Cyrillic_TSE, Macedonian_dse, Macedonia_DSE,   any,   any ]};
+    key <AB04>  {[   Cyrillic_ve,   Cyrillic_VE,            any,           any,   any,   any ]};
+    key <AB05>  {[   Cyrillic_be,   Cyrillic_BE,            any,           any,   any,   any ]};
+    key <AB06>  {[   Cyrillic_en,   Cyrillic_EN,   Cyrillic_nje,  Cyrillic_NJE,   any,   any ]};
+    key <AB07>  {[   Cyrillic_em,   Cyrillic_EM,            any,           any,   any,   any ]};
+    key <AB08>  {[         comma,     semicolon,            any,           any,   any,   any ]};
+    key <AB09>  {[        period,         colon,            any,           any,   any,   any ]};
+    key <AB10>  {[         minus,    underscore,            bar,           any,   any,   any ]};
+
+    key.type[Group1] = "EIGHT_LEVEL";
+    key <SPCE>	{[        space,      space,         nobreakspace,  any,                U200A,                U200A ]};
+
+    key.type[Group1] = "ONE_LEVEL";
+    key <LFSH>	{[ Shift_L ]};
+    key <RTSH>	{[ Shift_R ]};
+    key <RALT>	{[ ISO_Level3_Shift ]};
+
+    include "kpdl(comma)"
+};
