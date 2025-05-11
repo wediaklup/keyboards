@@ -1,6 +1,10 @@
 # Layout E1 (DIN 2137-01:2023-08)
 
 # E1 IPA-Eingabe
+<dead_doubleacute> <o> : "ő"
+<dead_doubleacute> <u> : "ű"
+<dead_doubleacute> <O> : "Ő"
+<dead_doubleacute> <U> : "Ű"
 <dead_doubleacute> <e> <1> : "ᵊ"
 <dead_doubleacute> <f> <1> : "ǀ"
 <dead_doubleacute> <h> <1> : "ʰ"
@@ -147,50 +151,50 @@
 
 
 # E1 IPA-Sonderzeichen
-<dead_doubleacute> <1> <a> : "\u033D"
-<dead_doubleacute> <1> <b> : "\u1DC4"
-<dead_doubleacute> <1> <d> : "\u0304"
-<dead_doubleacute> <1> <e> : "\u0308"
-<dead_doubleacute> <1> <i> : "\u0302"
-<dead_doubleacute> <1> <j> : "\u030F"
-<dead_doubleacute> <1> <k> : "\u0311"
+<dead_doubleacute> <1> <a> : U033D
+<dead_doubleacute> <1> <b> : U1DC4
+<dead_doubleacute> <1> <d> : U0304
+<dead_doubleacute> <1> <e> : U0308
+<dead_doubleacute> <1> <i> : U0302
+<dead_doubleacute> <1> <j> : U030F
+<dead_doubleacute> <1> <k> : U0311
 <dead_doubleacute> <1> <m> : "᷈"
 <dead_doubleacute> <1> <n> : "᷅"
-<dead_doubleacute> <1> <odiaeresis> : "\u031A"
-<dead_doubleacute> <1> <p> : "\u030A"
-<dead_doubleacute> <1> <q> : "\u0301"
-<dead_doubleacute> <1> <r> : "\u0303"
-<dead_doubleacute> <1> <s> : "\u0307"
-<dead_doubleacute> <1> <t> : "\u030B"
-<dead_doubleacute> <1> <udiaeresis> : "\u030C"
-<dead_doubleacute> <1> <w> : "\u0300"
-<dead_doubleacute> <1> <y> : "\u0306"
-<dead_doubleacute> <1> <z> : "\u0361"
-<dead_doubleacute> <2> <a> : "\u032A"
-<dead_doubleacute> <2> <b> : "\u0334"
-<dead_doubleacute> <2> <c> : "\u0322"
-<dead_doubleacute> <2> <d> : "\u032C"
-<dead_doubleacute> <2> <e> : "\u0324"
-<dead_doubleacute> <2> <f> : "\u031C"
-<dead_doubleacute> <2> <g> : "\u0339"
-<dead_doubleacute> <2> <h> : "\u0319"
-<dead_doubleacute> <2> <i> : "\u031E"
-<dead_doubleacute> <2> <j> : "\u0318"
-<dead_doubleacute> <2> <k> : "\u032F"
-<dead_doubleacute> <2> <l> : "\u033A"
-<dead_doubleacute> <2> <m> : "\u032B"
-<dead_doubleacute> <2> <odiaeresis> : "\u031D"
-<dead_doubleacute> <2> <p> : "\u0325"
-<dead_doubleacute> <2> <q> : "\u0317"
-<dead_doubleacute> <2> <r> : "\u0330"
-<dead_doubleacute> <2> <s> : "\u0323"
-<dead_doubleacute> <2> <t> : "\u0329"
-<dead_doubleacute> <2> <udiaeresis> : "\u031F"
-<dead_doubleacute> <2> <v> : "\u033C"
-<dead_doubleacute> <2> <w> : "\u0316"
-<dead_doubleacute> <2> <x> : "\u0321"
-<dead_doubleacute> <2> <y> : "\u0320"
-<dead_doubleacute> <2> <z> : "\u033B"
+<dead_doubleacute> <1> <odiaeresis> : U031A
+<dead_doubleacute> <1> <p> : U030A
+<dead_doubleacute> <1> <q> : U0301
+<dead_doubleacute> <1> <r> : U0303
+<dead_doubleacute> <1> <s> : U0307
+<dead_doubleacute> <1> <t> : U030B
+<dead_doubleacute> <1> <udiaeresis> : U030C
+<dead_doubleacute> <1> <w> : U0300
+<dead_doubleacute> <1> <y> : U0306
+<dead_doubleacute> <1> <z> : U0361
+<dead_doubleacute> <2> <a> : U032A
+<dead_doubleacute> <2> <b> : U0334
+<dead_doubleacute> <2> <c> : U0322
+<dead_doubleacute> <2> <d> : U032C
+<dead_doubleacute> <2> <e> : U0324
+<dead_doubleacute> <2> <f> : U031C
+<dead_doubleacute> <2> <g> : U0339
+<dead_doubleacute> <2> <h> : U0319
+<dead_doubleacute> <2> <i> : U031E
+<dead_doubleacute> <2> <j> : U0318
+<dead_doubleacute> <2> <k> : U032F
+<dead_doubleacute> <2> <l> : U033A
+<dead_doubleacute> <2> <m> : U032B
+<dead_doubleacute> <2> <odiaeresis> : U031D
+<dead_doubleacute> <2> <p> : U0325
+<dead_doubleacute> <2> <q> : U0317
+<dead_doubleacute> <2> <r> : U0330
+<dead_doubleacute> <2> <s> : U0323
+<dead_doubleacute> <2> <t> : U0329
+<dead_doubleacute> <2> <udiaeresis> : U031F
+<dead_doubleacute> <2> <v> : U033C
+<dead_doubleacute> <2> <w> : U0316
+<dead_doubleacute> <2> <x> : U0321
+<dead_doubleacute> <2> <y> : U0320
+<dead_doubleacute> <2> <z> : U033B
 <dead_doubleacute> <3> <b> : "/"
 <dead_doubleacute> <3> <c> : ")"
 <dead_doubleacute> <3> <f> : "ʻ"
@@ -229,11 +233,11 @@
 <dead_doubleacute> <4> <y> : "˗"
 <dead_doubleacute> <4> <z> : "‿"
 
-<dead_doubleacute> <period> : "\u02D0"
-<dead_doubleacute> <comma> : "\u02D1"
-<dead_doubleacute> <plus> : "\u02C8"
-<dead_doubleacute> <minus> : "\u02CC"
-<dead_doubleacute> <numbersign> : "\u2016"
+<dead_doubleacute> <period> : U02D0
+<dead_doubleacute> <comma> : U02D1
+<dead_doubleacute> <plus> : U02C8
+<dead_doubleacute> <minus> : U02CC
+<dead_doubleacute> <numbersign> : U2016
 
 
 
@@ -295,6 +299,7 @@
 
 
 # E1 Mathematisch
+<dead_abovering> <A> : "Å"
 <dead_abovering> <B> : "⇎"
 <dead_abovering> <C> : "ℂ"
 <dead_abovering> <D> : "∆"
@@ -314,6 +319,7 @@
 <dead_abovering> <R> : "ℝ"
 <dead_abovering> <S> : "∇"
 <dead_abovering> <T> : "∟"
+<dead_abovering> <U> : "Ů"
 <dead_abovering> <V> : "∧"
 <dead_abovering> <W> : "ʬ"
 <dead_abovering> <X> : "ℵ"
@@ -322,6 +328,7 @@
 <dead_abovering> <Adiaeresis> : "∌"
 <dead_abovering> <Adiaeresis> : "∉"
 <dead_abovering> <Udiaeresis> : "∦"
+<dead_abovering> <a> : "å"
 <dead_abovering> <b> : "⇔"
 <dead_abovering> <c> : "∛"
 <dead_abovering> <d> : "∂"
@@ -341,32 +348,35 @@
 <dead_abovering> <r> : "√"
 <dead_abovering> <s> : "↔"
 <dead_abovering> <t> : "⊥"
+<dead_abovering> <u> : "ů"
 <dead_abovering> <v> : "∨"
+<dead_abovering> <w> : "ẘ"
 <dead_abovering> <x> : "✕"
+<dead_abovering> <y> : "ẙ"
 <dead_abovering> <z> : "⚡"
 <dead_abovering> <adiaeresis> : "∋"
 <dead_abovering> <odiaeresis> : "∈"
 <dead_abovering> <udiaeresis> : "∥"
 <dead_abovering> <ssharp> : "∫"
 
-<dead_abovering> <multiply> : "\u2297"
-<dead_abovering> <slash> : "\u2215"
-<dead_abovering> <parenleft> : "\u2768"
-<dead_abovering> <parenright> : "\u2769"
-<dead_abovering> <bracketleft> : "\u27E6"
-<dead_abovering> <bracketright> : "\u27E7"
-<dead_abovering> <equal> : "\u225D"
-<dead_abovering> <plus> : "\u2295"
-<dead_abovering> <asterisk> : "\u2217"
-<dead_abovering> <asciitilde> : "\u2E1B"
-<dead_abovering> <numbersign> : "\u220E"
-<dead_abovering> <less> : "\u226A"
-<dead_abovering> <greater> : "\u226B"
-<dead_abovering> <period> : "\u22C5"
-<dead_abovering> <semicolon> : "\u21CC"
-<dead_abovering> <colon> : "\u2236"
-<dead_abovering> <U2022> : "\u2217"
-<dead_abovering> <minus> : "\u2296"
+<dead_abovering> <multiply> : U2297
+<dead_abovering> <slash> : U2215
+<dead_abovering> <parenleft> : U2768
+<dead_abovering> <parenright> : U2769
+<dead_abovering> <bracketleft> : U27E6
+<dead_abovering> <bracketright> : U27E7
+<dead_abovering> <equal> : U225D
+<dead_abovering> <plus> : U2295
+<dead_abovering> <asterisk> : U2217
+<dead_abovering> <asciitilde> : U2E1B
+<dead_abovering> <numbersign> : U220E
+<dead_abovering> <less> : U226A
+<dead_abovering> <greater> : U226B
+<dead_abovering> <period> : U22C5
+<dead_abovering> <semicolon> : U21CC
+<dead_abovering> <colon> : U2236
+<dead_abovering> <U2022> : U2217
+<dead_abovering> <minus> : U2296
 
 
 
@@ -375,101 +385,101 @@
 <U0326> <2> : "ǁ"
 <U0326> <3> : "ǂ"
 <U0326> <4> : "ǃ"
-<U0326> <b> : "\uA723"
-<U0326> <B> : "\uA722"
-<U0326> <c> : "\uA725"
-<U0326> <C> : "\uA724"
-<U0326> <i> : "\uA7BD"
-<U0326> <I> : "\uA7BC"
-<U0326> <f> : "\u0192"
-<U0326> <F> : "\u0191"
-<U0326> <h> : "\u0195"
-<U0326> <H> : "\u01F6"
-<U0326> <q> : "\u0242"
-<U0326> <Q> : "\u0241"
-<U0326> <r> : "\u027C"
-<U0326> <R> : "\u211E"
-<U0326> <w> : "\u01BF"
-<U0326> <W> : "\u01F7"
-<U0326> <y> : "\u021D"
-<U0326> <Y> : "\u021C"
-<U0326> <z> : "\u0225"
-<U0326> <Z> : "\u0224"
-<U0326> <parenleft> : "\u2E24"
-<U0326> <parenright> : "\u2E25"
-<U0326> <bracketleft> : "\u2E22"
-<U0326> <bracketright> : "\u2E23"
-<U0326> <equal> : "\u2E17"
-<U0326> <bar> : "\u2980"
-<U0326> <question> : "\u2E2E"
-<U0326> <U2032> : "\u2035"
-<U0326> <U2033> : "\u2036"
+<U0326> <b> : UA723
+<U0326> <B> : UA722
+<U0326> <c> : UA725
+<U0326> <C> : UA724
+<U0326> <i> : UA7BD
+<U0326> <I> : UA7BC
+<U0326> <f> : U0192
+<U0326> <F> : U0191
+<U0326> <h> : U0195
+<U0326> <H> : U01F6
+<U0326> <q> : U0242
+<U0326> <Q> : U0241
+<U0326> <r> : U027C
+<U0326> <R> : U211E
+<U0326> <w> : U01BF
+<U0326> <W> : U01F7
+<U0326> <y> : U021D
+<U0326> <Y> : U021C
+<U0326> <z> : U0225
+<U0326> <Z> : U0224
+<U0326> <parenleft> : U2E24
+<U0326> <parenright> : U2E25
+<U0326> <bracketleft> : U2E22
+<U0326> <bracketright> : U2E23
+<U0326> <equal> : U2E17
+<U0326> <bar> : U2980
+<U0326> <question> : U2E2E
+<U0326> <U2032> : U2035
+<U0326> <U2033> : U2036
 
 
 
 # E1 MEHR Sonstiges
-<U0338> <1> : "\u25FE"
-<U0338> <2> : "\u25FD"
-<U0338> <3> : "\u2751"
-<U0338> <4> : "\u2756"
-<U0338> <5> : "\u2023"
-<U0338> <6> : "\u27A4"
-<U0338> <7> : "\u2B9A"
-<U0338> <8> : "\u2717"
-<U0338> <9> : "\u2718"
-<U0338> <0> : "\u2714"
-<U0338> <comma> : "\u25C1"
-<U0338> <semicolon> : "\u25A1"
-<U0338> <colon> : "\u25CF"
-<U0338> <degree> : "\u25CC"
-<U0338> <U2022> : "\u25C9"
-<U0338> <less> : "\u2619"
-<U0338> <equal> : "\u2766"
-<U0338> <greater> : "\u2767"
-<U0338> <minus> : "\u2E3A"
-<U0338> <asciitilde> : "\u2053"
-<U0338> <asciicircum> : "\u02C6"
-<U0338> <percent> : "\u2114"
-<U0338> <parenleft> : "\uFD3E"
-<U0338> <parenright> : "\uFD3F"
-<U0338> <bracketleft> : "\u2045"
-<U0338> <bracketright> : "\u2046"
-<U0338> <plus> : "\u2318"
-<U0338> <asterisk> : "\u2042"
-<U0338> <numbersign> : "\u203B"
-<U0338> <apostrophe> : "\u266A"
-<U0338> <bar> : "\u271D"
-<U0338> <slash> : "\u2105"
-<U0338> <question> : "\uFFFD"
+<U0338> <1> : U25FE
+<U0338> <2> : U25FD
+<U0338> <3> : U2751
+<U0338> <4> : U2756
+<U0338> <5> : U2023
+<U0338> <6> : U27A4
+<U0338> <7> : U2B9A
+<U0338> <8> : U2717
+<U0338> <9> : U2718
+<U0338> <0> : U2714
+<U0338> <comma> : U25C1
+<U0338> <semicolon> : U25A1
+<U0338> <colon> : U25CF
+<U0338> <degree> : U25CC
+<U0338> <U2022> : U25C9
+<U0338> <less> : U2619
+<U0338> <equal> : U2766
+<U0338> <greater> : U2767
+<U0338> <minus> : U2E3A
+<U0338> <asciitilde> : U2053
+<U0338> <asciicircum> : U02C6
+<U0338> <percent> : U2114
+<U0338> <parenleft> : UFD3E
+<U0338> <parenright> : UFD3F
+<U0338> <bracketleft> : U2045
+<U0338> <bracketright> : U2046
+<U0338> <plus> : U2318
+<U0338> <asterisk> : U2042
+<U0338> <numbersign> : U203B
+<U0338> <apostrophe> : U266A
+<U0338> <bar> : U271D
+<U0338> <slash> : U2105
+<U0338> <question> : UFFFD
 
 
 
 # E1 Sonstige Diakritika
-<U0307> <U0306> : "\u0310"
-<U030C> <U0302> : "\u032D"
-<U030C> <U030A> : "\u0325"
-<U030C> <U0331> : "\u035F"
-<U030C> <U0306> : "\u035C"
-<U0338> <U0301> : "\u030D"
-<U0338> <U0300> : "\u030F"
-<U0338> <U0304> : "\u0305"
-<U0338> <U0306> : "\u032F"
-<U0338> <U0307> : "\u0358"
-<U0338> <U0309> : "\u0312"
-<U0338> <U031B> : "\u0315"
-<U0338> <U0331> : "\u0332"
-<U0338> <U0328> : "\u1AB7"
+<U0307> <U0306> : U0310
+<U030C> <U0302> : U032D
+<U030C> <U030A> : U0325
+<U030C> <U0331> : U035F
+<U030C> <U0306> : U035C
+<U0338> <U0301> : U030D
+<U0338> <U0300> : U030F
+<U0338> <U0304> : U0305
+<U0338> <U0306> : U032F
+<U0338> <U0307> : U0358
+<U0338> <U0309> : U0312
+<U0338> <U031B> : U0315
+<U0338> <U0331> : U0332
+<U0338> <U0328> : U1AB7
 
 
 
 # E1 Whitespace
-<U0338> <ssharp> : "\u2007"
-<U0338> <udiaeresis> : "\u2009"
-<U0338> <Udiaeresis> : "\u2003"
-<U0338> <odiaeresis> : "\u200B"
-<U0338> <Odiaeresis> : "\u200D"
+<U0338> <ssharp> : U2007
+<U0338> <udiaeresis> : U2009
+<U0338> <Udiaeresis> : U2003
+<U0338> <odiaeresis> : U200B
+<U0338> <Odiaeresis> : U200D
 
 
 
 # E1 Planteam Custom
-<U0338> <minus> : "\uFE0E"
+<U0338> <minus> : UFE0E
