@@ -463,6 +463,11 @@
 
 
 # E1 Whitespace
+<U0338> <ssharp> : "\u2007"
+<U0338> <udiaeresis> : "\u2009"
+<U0338> <UDIAERESIS> : "\u2003"
+<U0338> <odiaeresis> : "\u200B"
+<U0338> <ODIAERESIS> : "\u200D"
 
 
 
