@@ -1,0 +1,15 @@
+body {
+    width: 420mm;
+    height: 297mm;
+    border: 1pt solid black;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 36pt;
+    font-family: 'Elephant';
+    font-weight: 400;
+    font-style: italic;
+}
+

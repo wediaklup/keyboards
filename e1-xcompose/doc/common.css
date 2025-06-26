@@ -1,0 +1,117 @@
+body {
+    width: 420mm;
+    height: 297mm;
+    border: 1pt solid black;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 36pt;
+    font-family: 'Elephant';
+    font-weight: 400;
+    font-style: italic;
+}
+
+img#base {
+    width: 100%;
+}
+
+.extra {
+    border: 1pt solid;
+    padding-inline: 0.2em;
+
+    &.ex {
+        color: #F00;
+        border-color: #F00;
+    }
+
+    &.gr {
+        color: #00F;
+        border-color: #00F;
+    }
+
+    &.maths {
+        color: #0A0;
+        border-color: #0A0;
+    }
+}
+
+table.prettytable {
+    font-size: 24pt;
+    border-collapse: collapse;
+
+    td, th {
+        border: 1pt solid;
+        text-align: center;
+        width: 1.25em;
+    }
+
+    th {
+        background-color: #CCC;;
+    }
+}
+
+table.keyboard {
+    width: 100%;
+    --__font-size: 24pt;
+
+    border-collapse: collapse;
+
+    tr.d, tr.c, tr.b {
+        h1 { font-weight: 700; }
+    }
+
+    .semialpha {
+        h1 { font-weight: 400 !important; }
+        h3 { font-weight: 700; }
+    }
+
+    .escape {
+        border: 1pt dotted;
+        font-size: 0.8em;
+    }
+
+    td, th {
+        border: 1pt solid black;
+        padding-inline: 0.25em;
+        width: 3em;
+        height: 2.75em;
+        font-size: var(--__font-size);
+    }
+
+    th {
+        background-color: #CCC;
+    }
+
+    tr.e td div, tr.d td div, tr.c td div, tr.b td div {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1em 1em;
+        gap: 0.2em;
+    }
+
+    h1, h2, h3, h4 { font-family: sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: var(--__font-size);
+        margin: 0;
+        padding: 0.1em;
+    }
+
+    h1, h3 {
+        text-align: left;
+    }
+
+    h2, h4 {
+        text-align: right;
+    }
+
+    .extra {
+        border: 1pt solid;
+        padding: 0;
+        font-size: 90%;
+        text-align: center;
+    }
+}
+

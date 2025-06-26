@@ -1,5 +1,496 @@
 # Layout E1 (DIN 2137-01:2023-08)
 
+# Akut
+
+<dead_acute> <W> : "Ẃ"
+<dead_acute> <E> : "É"
+<dead_acute> <R> : "Ŕ"
+<dead_acute> <Z> : "Ź"
+<dead_acute> <U> : "Ú"
+<dead_acute> <I> : "Í"
+<dead_acute> <O> : "Ó"
+<dead_acute> <P> : "Ṕ"
+<dead_acute> <Udiaeresis> : "Ǘ"
+<dead_acute> <A> : "Á"
+<dead_acute> <S> : "Ś"
+<dead_acute> <G> : "Ǵ"
+<dead_acute> <K> : "Ḱ"
+<dead_acute> <L> : "Ĺ"
+<dead_acute> <Y> : "Ý"
+<dead_acute> <C> : "Ć"
+<dead_acute> <N> : "Ń"
+<dead_acute> <M> : "Ḿ"
+
+<dead_acute> <w> : "ẃ"
+<dead_acute> <e> : "é"
+<dead_acute> <r> : "ŕ"
+<dead_acute> <z> : "ź"
+<dead_acute> <u> : "ú"
+<dead_acute> <i> : "í"
+<dead_acute> <o> : "ó"
+<dead_acute> <p> : "ṕ"
+<dead_acute> <udiaeresis> : "ǘ"
+<dead_acute> <a> : "á"
+<dead_acute> <s> : "ś"
+<dead_acute> <g> : "ǵ"
+<dead_acute> <k> : "ḱ"
+<dead_acute> <l> : "ĺ"
+<dead_acute> <y> : "ý"
+<dead_acute> <c> : "ć"
+<dead_acute> <n> : "ń"
+<dead_acute> <m> : "ḿ"
+
+<dead_acute> <nobreakspace> : U0301
+
+# Gravis
+
+<dead_grave> <W> : "Ẁ"
+<dead_grave> <E> : "È"
+<dead_grave> <U> : "Ù"
+<dead_grave> <I> : "Ì"
+<dead_grave> <O> : "Ò"
+<dead_grave> <Udiaeresis> : "Ǜ"
+<dead_grave> <A> : "À"
+<dead_grave> <Y> : "Ỳ"
+<dead_grave> <N> : "Ǹ"
+
+<dead_grave> <w> : "ẁ"
+<dead_grave> <e> : "è"
+<dead_grave> <u> : "ù"
+<dead_grave> <i> : "ì"
+<dead_grave> <o> : "ò"
+<dead_grave> <udiaeresis> : "ǜ"
+<dead_grave> <a> : "à"
+<dead_grave> <y> : "ỳ"
+<dead_grave> <n> : "ǹ"
+<dead_grave> <nobreakspace> : U0300
+
+# Zirkumflex
+
+<dead_circumflex> <W> : "Ŵ"
+<dead_circumflex> <E> : "Ê"
+<dead_circumflex> <Z> : "Ẑ"
+<dead_circumflex> <U> : "Û"
+<dead_circumflex> <I> : "Î"
+<dead_circumflex> <O> : "Ô"
+<dead_circumflex> <A> : "Â"
+<dead_circumflex> <S> : "Ŝ"
+<dead_circumflex> <G> : "Ĝ"
+<dead_circumflex> <H> : "Ĥ"
+<dead_circumflex> <J> : "Ĵ"
+<dead_circumflex> <Y> : "Ŷ"
+<dead_circumflex> <C> : "Ĉ"
+
+<dead_circumflex> <w> : "ŵ"
+<dead_circumflex> <e> : "ê"
+<dead_circumflex> <z> : "ẑ"
+<dead_circumflex> <u> : "û"
+<dead_circumflex> <i> : "î"
+<dead_circumflex> <o> : "ô"
+<dead_circumflex> <a> : "â"
+<dead_circumflex> <s> : "ŝ"
+<dead_circumflex> <g> : "ĝ"
+<dead_circumflex> <h> : "ĥ"
+<dead_circumflex> <j> : "ĵ"
+<dead_circumflex> <y> : "ŷ"
+<dead_circumflex> <c> : "ĉ"
+
+<dead_circumflex> <nobreakspace> : U0302
+
+# Punkt oben
+
+<dead_abovedot> <W> : "Ẇ"
+<dead_abovedot> <E> : "Ė"
+<dead_abovedot> <R> : "Ṙ"
+<dead_abovedot> <T> : "Ṫ"
+<dead_abovedot> <Z> : "Ż"
+<dead_abovedot> <I> : "I"
+<dead_abovedot> <O> : "Ȯ"
+<dead_abovedot> <P> : "Ṗ"
+<dead_abovedot> <A> : "Ȧ"
+<dead_abovedot> <S> : "Ṡ"
+<dead_abovedot> <D> : "Ḋ"
+<dead_abovedot> <F> : "Ḟ"
+<dead_abovedot> <G> : "Ġ"
+<dead_abovedot> <H> : "Ḣ"
+<dead_abovedot> <J> : "ȷ"
+<dead_abovedot> <L> : "Ŀ"
+<dead_abovedot> <Y> : "Ẏ"
+<dead_abovedot> <X> : "Ẋ"
+<dead_abovedot> <C> : "Ċ"
+<dead_abovedot> <B> : "Ḃ"
+<dead_abovedot> <N> : "Ṅ"
+<dead_abovedot> <M> : "Ṁ"
+
+<dead_abovedot> <w> : "ẇ"
+<dead_abovedot> <e> : "ė"
+<dead_abovedot> <r> : "ṙ"
+<dead_abovedot> <t> : "ṫ"
+<dead_abovedot> <z> : "ż"
+<dead_abovedot> <i> : "ı"
+<dead_abovedot> <o> : "ȯ"
+<dead_abovedot> <p> : "ṗ"
+<dead_abovedot> <a> : "ȧ"
+<dead_abovedot> <s> : "ṡ"
+<dead_abovedot> <d> : "ḋ"
+<dead_abovedot> <f> : "ḟ"
+<dead_abovedot> <g> : "ġ"
+<dead_abovedot> <h> : "ḣ"
+<dead_abovedot> <j> : "ȷ"
+<dead_abovedot> <l> : "ŀ"
+<dead_abovedot> <y> : "ẏ"
+<dead_abovedot> <x> : "ẋ"
+<dead_abovedot> <c> : "ċ"
+<dead_abovedot> <b> : "ḃ"
+<dead_abovedot> <n> : "ṅ"
+<dead_abovedot> <m> : "ṁ"
+
+<dead_abovedot> <nobreakspace> : U0307
+
+# Makron
+
+<dead_macron> <A> : "Ā"
+<dead_macron> <E> : "Ē"
+<dead_macron> <I> : "Ī"
+<dead_macron> <O> : "Ō"
+<dead_macron> <U> : "Ū"
+<dead_macron> <Adiaeresis> : "Ǟ"
+<dead_macron> <Odiaeresis> : "Ȫ"
+<dead_macron> <Udiaeresis> : "Ǖ"
+
+<dead_macron> <a> : "ā"
+<dead_macron> <e> : "ē"
+<dead_macron> <i> : "ī"
+<dead_macron> <o> : "ō"
+<dead_macron> <u> : "ū"
+<dead_macron> <adiaeresis> : "ǟ"
+<dead_macron> <odiaeresis> : "ȫ"
+<dead_macron> <udiaeresis> : "ǖ"
+
+<dead_macron> <nobreakspace> : U0304
+
+# Hatschek
+
+<dead_caron> <E> : "Ě"
+<dead_caron> <R> : "Ř"
+<dead_caron> <T> : "Ť"
+<dead_caron> <Z> : "Ž"
+<dead_caron> <U> : "Ǔ"
+<dead_caron> <I> : "Ǐ"
+<dead_caron> <O> : "Ǒ"
+<dead_caron> <Udiaeresis> : "Ǚ"
+<dead_caron> <A> : "Ǎ"
+<dead_caron> <S> : "Š"
+<dead_caron> <D> : "Ď"
+<dead_caron> <G> : "Ǧ"
+<dead_caron> <H> : "Ȟ"
+<dead_caron> <J> : "J̌"
+<dead_caron> <K> : "Ǩ"
+<dead_caron> <L> : "Ľ"
+<dead_caron> <C> : "Č"
+<dead_caron> <N> : "Ň"
+
+<dead_caron> <e> : "ě"
+<dead_caron> <r> : "ř"
+<dead_caron> <t> : "ť"
+<dead_caron> <z> : "ž"
+<dead_caron> <u> : "ǔ"
+<dead_caron> <i> : "ǐ"
+<dead_caron> <o> : "ǒ"
+<dead_caron> <udiaeresis> : "ǚ"
+<dead_caron> <a> : "ǎ"
+<dead_caron> <s> : "š"
+<dead_caron> <d> : "ď"
+<dead_caron> <g> : "ǧ"
+<dead_caron> <h> : "ȟ"
+<dead_caron> <j> : "ǰ"
+<dead_caron> <k> : "ǩ"
+<dead_caron> <l> : "ľ"
+<dead_caron> <c> : "č"
+<dead_caron> <n> : "ň"
+
+<dead_caron> <nobreakspace> : U030C
+
+# Diärese
+
+<dead_diaeresis> <W> : "Ẅ"
+<dead_diaeresis> <E> : "Ë"
+<dead_diaeresis> <T> : "T̈"
+<dead_diaeresis> <U> : "Ü"
+<dead_diaeresis> <I> : "Ï"
+<dead_diaeresis> <O> : "Ö"
+<dead_diaeresis> <A> : "Ä"
+<dead_diaeresis> <H> : "Ḧ"
+<dead_diaeresis> <Y> : "Ÿ"
+<dead_diaeresis> <X> : "Ẍ"
+
+<dead_diaeresis> <w> : "ẅ"
+<dead_diaeresis> <e> : "ë"
+<dead_diaeresis> <t> : "ẗ"
+<dead_diaeresis> <u> : "ü"
+<dead_diaeresis> <i> : "ï"
+<dead_diaeresis> <o> : "ö"
+<dead_diaeresis> <a> : "ä"
+<dead_diaeresis> <h> : "ḧ"
+<dead_diaeresis> <y> : "ÿ"
+<dead_diaeresis> <x> : "ẍ"
+
+<dead_diaeresis> <nobreakspace> : U0308
+
+# Brevis
+
+<dead_breve> <E> : "Ĕ"
+<dead_breve> <U> : "Ŭ"
+<dead_breve> <I> : "Ĭ"
+<dead_breve> <O> : "Ŏ"
+<dead_breve> <A> : "Ă"
+<dead_breve> <G> : "Ğ"
+
+<dead_breve> <e> : "ĕ"
+<dead_breve> <u> : "ŭ"
+<dead_breve> <i> : "ĭ"
+<dead_breve> <o> : "ŏ"
+<dead_breve> <a> : "ă"
+<dead_breve> <g> : "ğ"
+
+<dead_breve> <nobreakspace> : U0306
+
+# Tilde
+
+<dead_tilde> <E> : "Ẽ"
+<dead_tilde> <U> : "Ũ"
+<dead_tilde> <I> : "Ĩ"
+<dead_tilde> <O> : "Õ"
+<dead_tilde> <A> : "Ã"
+<dead_tilde> <Y> : "Ỹ"
+<dead_tilde> <V> : "Ṽ"
+
+<dead_tilde> <e> : "ẽ"
+<dead_tilde> <u> : "ũ"
+<dead_tilde> <i> : "ĩ"
+<dead_tilde> <o> : "õ"
+<dead_tilde> <a> : "ã"
+<dead_tilde> <y> : "ỹ"
+<dead_tilde> <v> : "ṽ"
+
+<dead_tilde> <nobreakspace> : U0303
+
+# Haken
+
+<dead_hook> <W> : "Ⱳ"
+<dead_hook> <E> : "Ẻ"
+<dead_hook> <T> : "Ƭ"
+<dead_hook> <Z> : "Ȥ"
+<dead_hook> <U> : "Ủ"
+<dead_hook> <I> : "Ỉ"
+<dead_hook> <O> : "Ỏ"
+<dead_hook> <P> : "Ƥ"
+<dead_hook> <A> : "Ả"
+<dead_hook> <S> : "Ʂ"
+<dead_hook> <D> : "Ɗ"
+<dead_hook> <F> : "Ƒ"
+<dead_hook> <G> : "Ɠ"
+<dead_hook> <H> : "Ɦ"
+<dead_hook> <Y> : "Ỷ"
+<dead_hook> <C> : "Ƈ"
+<dead_hook> <V> : "Ʋ"
+<dead_hook> <B> : "Ɓ"
+<dead_hook> <N> : "Ɲ"
+<dead_hook> <M> : "Ɱ"
+
+<dead_hook> <w> : "ⱳ"
+<dead_hook> <e> : "ẻ"
+<dead_hook> <t> : "ƭ"
+<dead_hook> <z> : "ȥ"
+<dead_hook> <u> : "ủ"
+<dead_hook> <i> : "ỉ"
+<dead_hook> <o> : "ỏ"
+<dead_hook> <p> : "ƥ"
+<dead_hook> <a> : "ả"
+<dead_hook> <s> : "ʂ"
+<dead_hook> <d> : "ɗ"
+<dead_hook> <f> : "ƒ"
+<dead_hook> <g> : "ɠ"
+<dead_hook> <h> : "ɦ"
+<dead_hook> <y> : "ỷ"
+<dead_hook> <c> : "ƈ"
+<dead_hook> <v> : "ʋ"
+<dead_hook> <b> : "ɓ"
+<dead_hook> <n> : "ɲ"
+<dead_hook> <m> : "ɱ"
+
+<dead_hook> <nobreakspace> : U0309
+
+# Horn
+
+<dead_horn> <U> : "Ư"
+<dead_horn> <O> : "Ơ"
+
+<dead_horn> <u> : "ư"
+<dead_horn> <o> : "ơ"
+
+<dead_horn> <nobreakspace> : U031B
+
+# Makron unten
+
+<dead_belowmacron> <B> : "Ḇ"
+<dead_belowmacron> <D> : "Ḏ"
+<dead_belowmacron> <H> : "H̱"
+<dead_belowmacron> <K> : "Ḵ"
+<dead_belowmacron> <L> : "Ḻ"
+<dead_belowmacron> <N> : "Ṉ"
+<dead_belowmacron> <R> : "Ṟ"
+<dead_belowmacron> <T> : "Ṯ"
+<dead_belowmacron> <Z> : "Ẕ"
+
+<dead_belowmacron> <b> : "ḇ"
+<dead_belowmacron> <d> : "ḏ"
+<dead_belowmacron> <h> : "ẖ"
+<dead_belowmacron> <k> : "ḵ"
+<dead_belowmacron> <l> : "ḻ"
+<dead_belowmacron> <n> : "ṉ"
+<dead_belowmacron> <r> : "ṟ"
+<dead_belowmacron> <t> : "ṯ"
+<dead_belowmacron> <z> : "ẕ"
+
+<dead_belowmacron> <nobreakspace> : U0331
+
+# Cedille
+
+<dead_cedilla> <E> : "Ȩ"
+<dead_cedilla> <R> : "Ŗ"
+<dead_cedilla> <T> : "Ţ"
+<dead_cedilla> <S> : "Ş"
+<dead_cedilla> <D> : "Ḑ"
+<dead_cedilla> <G> : "Ģ"
+<dead_cedilla> <H> : "Ḩ"
+<dead_cedilla> <K> : "Ķ"
+<dead_cedilla> <L> : "Ļ"
+<dead_cedilla> <C> : "Ç"
+<dead_cedilla> <N> : "Ņ"
+
+<dead_cedilla> <e> : "ȩ"
+<dead_cedilla> <r> : "ŗ"
+<dead_cedilla> <t> : "ţ"
+<dead_cedilla> <s> : "ş"
+<dead_cedilla> <d> : "ḑ"
+<dead_cedilla> <g> : "ģ"
+<dead_cedilla> <h> : "ḩ"
+<dead_cedilla> <k> : "ķ"
+<dead_cedilla> <l> : "ļ"
+<dead_cedilla> <c> : "ç"
+<dead_cedilla> <n> : "ņ"
+
+<dead_cedilla> <nobreakspace> : U0327
+
+# Komma unten
+
+<dead_belowcomma> <T> : "Ț"
+<dead_belowcomma> <S> : "Ș"
+
+<dead_belowcomma> <t> : "ț"
+<dead_belowcomma> <s> : "ș"
+
+<dead_cedilla> <nobreakspace> : U0326
+
+# Ogonek
+
+<dead_ogonek> <E> : "Ę"
+<dead_ogonek> <U> : "Ų"
+<dead_ogonek> <I> : "Į"
+<dead_ogonek> <O> : "Ǫ"
+<dead_ogonek> <A> : "Ą"
+
+<dead_ogonek> <e> : "ę"
+<dead_ogonek> <u> : "ų"
+<dead_ogonek> <i> : "į"
+<dead_ogonek> <o> : "ǫ"
+<dead_ogonek> <a> : "ą"
+
+<dead_ogonek> <nobreakspace> : U0328
+
+# Punkt unten
+
+<dead_belowdot> <W> : "Ẉ"
+<dead_belowdot> <E> : "Ẹ"
+<dead_belowdot> <R> : "Ṛ"
+<dead_belowdot> <T> : "Ṭ"
+<dead_belowdot> <Z> : "Ẓ"
+<dead_belowdot> <U> : "Ụ"
+<dead_belowdot> <I> : "Ị"
+<dead_belowdot> <O> : "Ọ"
+<dead_belowdot> <A> : "Ạ"
+<dead_belowdot> <S> : "Ṣ"
+<dead_belowdot> <D> : "Ḍ"
+<dead_belowdot> <H> : "Ḥ"
+<dead_belowdot> <K> : "Ḳ"
+<dead_belowdot> <L> : "Ḷ"
+<dead_belowdot> <Y> : "Ỵ"
+<dead_belowdot> <V> : "Ṿ"
+<dead_belowdot> <B> : "Ḅ"
+<dead_belowdot> <N> : "Ṇ"
+<dead_belowdot> <M> : "Ṃ"
+
+<dead_belowdot> <w> : "ẉ"
+<dead_belowdot> <e> : "ẹ"
+<dead_belowdot> <r> : "ṛ"
+<dead_belowdot> <t> : "ṭ"
+<dead_belowdot> <z> : "ẓ"
+<dead_belowdot> <u> : "ụ"
+<dead_belowdot> <i> : "ị"
+<dead_belowdot> <o> : "ọ"
+<dead_belowdot> <a> : "ạ"
+<dead_belowdot> <s> : "ṣ"
+<dead_belowdot> <d> : "ḍ"
+<dead_belowdot> <h> : "ḥ"
+<dead_belowdot> <k> : "ḳ"
+<dead_belowdot> <l> : "ḷ"
+<dead_belowdot> <y> : "ỵ"
+<dead_belowdot> <v> : "ṿ"
+<dead_belowdot> <b> : "ḅ"
+<dead_belowdot> <n> : "ṇ"
+<dead_belowdot> <m> : "ṃ"
+
+<dead_belowdot> <nobreakspace> : U0323
+
+# Querstrich
+
+<dead_stroke> <R> : "Ɍ"
+<dead_stroke> <T> : "Ŧ"
+<dead_stroke> <Z> : "Ƶ"
+<dead_stroke> <U> : "Ʉ"
+<dead_stroke> <I> : "Ɨ"
+<dead_stroke> <O> : "Ø"
+<dead_stroke> <P> : "Ᵽ"
+<dead_stroke> <A> : "Ⱥ"
+<dead_stroke> <D> : "Đ"
+<dead_stroke> <G> : "Ǥ"
+<dead_stroke> <H> : "Ħ"
+<dead_stroke> <J> : "Ɉ"
+<dead_stroke> <L> : "Ł"
+<dead_stroke> <Y> : "Ɏ"
+<dead_stroke> <C> : "Ȼ"
+<dead_stroke> <B> : "Ƀ"
+
+<dead_stroke> <r> : "ɍ"
+<dead_stroke> <t> : "ŧ"
+<dead_stroke> <z> : "ƶ"
+<dead_stroke> <u> : "ʉ"
+<dead_stroke> <i> : "ɨ"
+<dead_stroke> <o> : "ø"
+<dead_stroke> <p> : "ᵽ"
+<dead_stroke> <a> : "ⱥ"
+<dead_stroke> <d> : "đ"
+<dead_stroke> <g> : "ǥ"
+<dead_stroke> <h> : "ħ"
+<dead_stroke> <j> : "ɉ"
+<dead_stroke> <l> : "ł"
+<dead_stroke> <y> : "ɏ"
+<dead_stroke> <c> : "ȼ"
+<dead_stroke> <b> : "ƀ"
+
+<dead_stroke> <nobreakspace> : U0336
+
 # E1 IPA-Eingabe
 <dead_doubleacute> <o> : "ő"
 <dead_doubleacute> <u> : "ű"
@@ -326,7 +817,7 @@
 <dead_abovering> <Y> : "∢"
 <dead_abovering> <Z> : "ℤ"
 <dead_abovering> <Adiaeresis> : "∌"
-<dead_abovering> <Adiaeresis> : "∉"
+<dead_abovering> <Odiaeresis> : "∉"
 <dead_abovering> <Udiaeresis> : "∦"
 <dead_abovering> <a> : "å"
 <dead_abovering> <b> : "⇔"
@@ -482,4 +973,4 @@
 
 
 # E1 Planteam Custom
-<dead_commabelow> <minus> : UFE0E
+<dead_belowcomma> <minus> : UFE0E
